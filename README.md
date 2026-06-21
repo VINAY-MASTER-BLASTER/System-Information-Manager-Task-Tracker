@@ -12,15 +12,14 @@ If any issues occur during installation or execution, please provide the error l
 
 
 Please clone the repository and install all project dependencies on your local machine.
-
 Once the setup is complete:
 
-Install all required packages and dependencies.
-Verify that all project files and folders are present.
-Configure the necessary environment variables.
-Run the application locally.
-Review the system configuration, runtime environment, and server details.
-Compare the local environment with the live deployment hosted on Render.
+1. Install all required packages and dependencies.
+2. Verify that all project files and folders are present
+3. Configure the necessary environment variables.
+4. Run the application locally.
+5. Review the system configuration, runtime environment, and server details.
+6. Compare the local environment with the live deployment hosted on Render.
 
 The objective is to validate that the application functions correctly and that the local configuration is consistent with the deployed server environment.
 
