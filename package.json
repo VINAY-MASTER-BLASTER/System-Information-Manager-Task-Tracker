@@ -1,0 +1,26 @@
+{
+  "name": "system-information-manager",
+  "version": "1.0.0",
+  "description": "A modern Node.js application for gathering system information and managing workspace files with a professional dashboard UI.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [
+    "system-info",
+    "file-manager",
+    "dashboard",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.0",
+    "express-rate-limit": "^7.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
