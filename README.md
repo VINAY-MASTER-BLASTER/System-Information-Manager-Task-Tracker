@@ -1,5 +1,29 @@
 # 🖥️ System Information Manager
 
+Kindly install the project on your local system, including all required folders, files, and dependencies.
+
+After installation, please run the application locally and verify the system configuration and environment details.
+
+You can compare the local results with the live deployment available on Render: https://render.com/
+
+Please review the server configuration, dependencies, environment variables, and runtime information to ensure that the local setup matches the deployed environment as closely as possible.
+
+If any issues occur during installation or execution, please provide the error logs and configuration details for further investigation.
+
+
+Please clone the repository and install all project dependencies on your local machine.
+
+Once the setup is complete:
+
+Install all required packages and dependencies.
+Verify that all project files and folders are present.
+Configure the necessary environment variables.
+Run the application locally.
+Review the system configuration, runtime environment, and server details.
+Compare the local environment with the live deployment hosted on Render.
+
+The objective is to validate that the application functions correctly and that the local configuration is consistent with the deployed server environment.
+
 A modern, professional Node.js dashboard application for gathering system information, inspecting environment variables, and managing workspace files — all from a beautiful, responsive web interface.
 
 > ⚠️ **This is NOT malware.** The application only accesses files inside a user-defined `workspace/` directory and reads system information using standard Node.js APIs. No system files are modified.
